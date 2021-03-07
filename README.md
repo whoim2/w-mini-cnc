@@ -1,5 +1,5 @@
 # w-mini-cnc
-simple home diy cnc, aluminium 6mm
+simple home diy cnc, aluminium 6mm or 8mm and 3d-printed parts
 
 in progress
 
