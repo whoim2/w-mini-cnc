@@ -3,7 +3,7 @@ simple home diy cnc, aluminium 6mm or 8mm and 3d-printed parts
 
 in progress
 
-![assembly](https://github.com/whoim2/w-mini-cnc/raw/main/Screenshot_1.png)
+![assembly](https://github.com/whoim2/w-mini-cnc/raw/main/IMG_20210308_235421_345.jpg)
 
 ![cut](https://github.com/whoim2/w-mini-cnc/raw/main/Screenshot_2.png)
 
