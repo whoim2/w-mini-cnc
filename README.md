@@ -5,7 +5,9 @@ in progress
 
 ![assembly](https://github.com/whoim2/w-mini-cnc/raw/main/IMG_20210308_235421_345.jpg)
 
-![cut](https://github.com/whoim2/w-mini-cnc/raw/main/Screenshot_2.png)
+![cut600x300](https://github.com/whoim2/w-mini-cnc/raw/main/Screenshot_2.png)
+
+![cut1200x200](https://github.com/whoim2/w-mini-cnc/raw/main/8mm/cut1200x200.png)
 
 Parts:
 
