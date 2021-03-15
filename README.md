@@ -1,5 +1,5 @@
 # w-mini-cnc
-simple home diy cnc, aluminium 6mm or 8mm and 3d-printed parts
+simple home diy cnc, aluminium 8mm and 3d-printed parts
 
 in progress
 
@@ -11,29 +11,29 @@ in progress
 
 Parts:
 
-_2x 12mm 500mm linear round for Y
+2x 12mm 500mm linear round for Y
 
-_2x 12mm 400mm linear round for X
+2x 12mm 400mm linear round for X
 
-_2x 10mm 100mm linear round for Z
+2x 10mm 100mm linear round for Z
 
-_4x SCS12UU for Y
+4x SCS12UU for Y
 
-_2x LU12LUU or 4x LU12UU for X
+2x LU12LUU or 4x LU12UU for X
 
-_2x LU10UU for Z
+2x LU10UU for Z
 
-_T8 acme 500 for Y
+T8 acme 500 for Y
 
-_T8 acme 400 for X
+T8 acme 400 for X
 
-_T8 acme 100 for Z
+T8 acme 100 for Z
 
-_3x nut anti-backlash T8
+3x nut anti-backlash T8
 
-_3x 608zz
+3x 608zz
 
-_3x nema17
+3x nema17
 
-_3x 5x8 motor coupler
+3x 5x8 motor coupler
 
