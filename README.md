@@ -1,5 +1,5 @@
 # w-mini-cnc
-simple home diy cnc, aluminium 8mm and 3d-printed parts. Two Z-axis, 3d-printed and aluminium.
+simple home diy cnc, aluminium 8mm and 3d-printed parts. Two Z-axis variants, 3d-printed and aluminium.
 
 in progress
 
